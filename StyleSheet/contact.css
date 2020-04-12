@@ -42,7 +42,7 @@ nav ul li :not(:last-child)
 }
 .container
 {
-    padding-top: 20px !important;
+    padding-top: 20px;
     margin-left: 10px;
     margin-right: 20px;
     
