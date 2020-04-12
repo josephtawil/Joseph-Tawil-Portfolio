@@ -9,7 +9,7 @@ body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin:0;
-    background: gray;
+    background: lightblue;
 }
 nav
 {
@@ -42,7 +42,7 @@ nav ul li :not(:last-child)
 }
 .home{
     height: 92vh;
-    background-color:gray;
+    background-color:lightblue;
     display: flex;
 
     justify-content: center;
